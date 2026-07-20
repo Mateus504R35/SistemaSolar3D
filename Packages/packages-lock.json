@@ -190,6 +190,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "dev.dyrda.milky-way-skybox": {
+      "version": "https://github.com/dyrdadev/milky-way-skybox-for-unity.git#0.0.3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d8062e7b4654b6122e28ef1ffca0fec795a4f08c"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
